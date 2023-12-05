@@ -1,4 +1,4 @@
-# Property24-Web-Scraper
+# Property24-Web-Scraper 🤪🖥️
 Properties for sale on property24 using web scraping
 
 
@@ -15,7 +15,8 @@ Properties for sale on property24 using web scraping
 * Then use the data to create a model to predict the price.
 * I created this project to practice the knowledge gained through **World Quant University - Data Science Lab**.
 
-**Screen-Shots**
+
+# 📷
 * Website
   ![Property24-Website](https://github.com/Ipfani/Property24-Web-Scraper/assets/150608520/fc063379-982e-4450-b669-edff725086e1)
 
